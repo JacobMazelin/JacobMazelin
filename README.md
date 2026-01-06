@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - Robotics & AI nerd building things that actually ship
 - Experience across ROS2, Jetson, computer vision, and automation agents
@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Tech & Tools
+### Tech & Tools
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -54,7 +54,7 @@
 
 ---
 
-### 🔭 What I’m Building
+### What I’m Building
 
 - AI automation agents for real businesses (hiring, document parsing, lead gen, IT workflows)
 - Robotics + computer vision projects for competitions and research
